@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage/InImage.iml" filepath="/Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage/InImage.iml" />
-      <module fileurl="file:///Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage/app/app.iml" filepath="/Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage/app/app.iml" />
+      <module fileurl="file:///Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage/InImage.iml" filepath="/Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage/InImage.iml" />
+      <module fileurl="file:///Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage/app/app.iml" filepath="/Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage/app/app.iml" />
     </modules>
   </component>
 </project>

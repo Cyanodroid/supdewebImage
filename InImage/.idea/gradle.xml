@@ -8,8 +8,8 @@
         <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1" />
         <option name="modules">
           <set>
-            <option value="/Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage" />
-            <option value="/Volumes/DONNEES/maxime.perraud/AndroidStudioProjects/InImage/app" />
+            <option value="/Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage" />
+            <option value="/Volumes/DONNEES/maxime.perraud/Desktop/supdewebImage/InImage/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

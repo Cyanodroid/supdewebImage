@@ -8,6 +8,11 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="C'EST ICI QU'ON RENTRE LA CLEF QU4IL Y A SUR HANGOUT BANDE DE CONNARD"/>
+
         <activity
             android:name=".DrawerActivity"
             android:label="@string/app_name"
